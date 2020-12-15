@@ -5,7 +5,7 @@ const { parse } = require("querystring");
 
 //database urls
 let mongodb_cloud_url =
-  "mongodb+srv://shashi:shashi123@cluster0.bwkxb.mongodb.net/shashi?retryWrites=true&w=majority";
+  "";
 let mongodb_local_url = "mongodb://localhost:27017/";
 
 function connectDatabase(request, callback) {
