@@ -1,0 +1,11 @@
+{
+  "name": "myfirst_mongodb_connection",
+  "version": "1.0.0",
+  "description": "we are creating and connecting mongodb database",
+  "main": "server.js",
+  "author": "shashi",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
